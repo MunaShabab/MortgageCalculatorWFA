@@ -1,0 +1,17 @@
+E:\VisualBasic\MortgageCalculatorWFA\obj\Debug\netcoreapp3.1\MortgageCalculatorWFA.vbproj.AssemblyReference.cache
+E:\VisualBasic\MortgageCalculatorWFA\obj\Debug\netcoreapp3.1\MortgageCalculatorWFA.Form1.resources
+E:\VisualBasic\MortgageCalculatorWFA\obj\Debug\netcoreapp3.1\MortgageCalculatorWFA.vbproj.GenerateResource.cache
+E:\VisualBasic\MortgageCalculatorWFA\obj\Debug\netcoreapp3.1\MortgageCalculatorWFA.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualBasic\MortgageCalculatorWFA\obj\Debug\netcoreapp3.1\MortgageCalculatorWFA.AssemblyInfoInputs.cache
+E:\VisualBasic\MortgageCalculatorWFA\obj\Debug\netcoreapp3.1\MortgageCalculatorWFA.AssemblyInfo.vb
+E:\VisualBasic\MortgageCalculatorWFA\obj\Debug\netcoreapp3.1\MortgageCalculatorWFA.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\MortgageCalculatorWFA\bin\Debug\netcoreapp3.1\MortgageCalculatorWFA.exe
+E:\VisualBasic\MortgageCalculatorWFA\bin\Debug\netcoreapp3.1\MortgageCalculatorWFA.deps.json
+E:\VisualBasic\MortgageCalculatorWFA\bin\Debug\netcoreapp3.1\MortgageCalculatorWFA.runtimeconfig.json
+E:\VisualBasic\MortgageCalculatorWFA\bin\Debug\netcoreapp3.1\MortgageCalculatorWFA.runtimeconfig.dev.json
+E:\VisualBasic\MortgageCalculatorWFA\bin\Debug\netcoreapp3.1\MortgageCalculatorWFA.dll
+E:\VisualBasic\MortgageCalculatorWFA\bin\Debug\netcoreapp3.1\MortgageCalculatorWFA.pdb
+E:\VisualBasic\MortgageCalculatorWFA\obj\Debug\netcoreapp3.1\MortgageCalculatorWFA.dll
+E:\VisualBasic\MortgageCalculatorWFA\obj\Debug\netcoreapp3.1\MortgageCalculatorWFA.pdb
+E:\VisualBasic\MortgageCalculatorWFA\obj\Debug\netcoreapp3.1\MortgageCalculatorWFA.genruntimeconfig.cache
+E:\VisualBasic\MortgageCalculatorWFA\obj\Debug\netcoreapp3.1\MortgageCalculatorWFA.Resources.resources
